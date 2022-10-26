@@ -1,0 +1,5 @@
+{
+    "name": "Image Classifier FastAPI",
+    "description": "Serving Image Classifier with FastAPI",
+    "repository": "https://github.com/hero-docker/main"
+  }

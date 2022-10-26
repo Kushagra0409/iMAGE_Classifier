@@ -1,0 +1,11 @@
+fastapi
+numpy
+scikit-learn
+uvicorn
+gunicorn
+gTTS
+tensorflow
+pathlib
+Pillow
+starlette
+python-multipart
